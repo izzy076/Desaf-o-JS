@@ -1,0 +1,18 @@
+* {
+  margin: 20px;
+  background-color: rgb(151, 151, 193);
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+h3{
+   color: white; 
+}
+
+p, ul{
+    color: rgb(18, 16, 19);
+}
