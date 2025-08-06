@@ -1,9 +1,9 @@
-<h1>Control de acceso</h1>
+<h1>Control de acceso💻</h1>
 <p>En este ejercicio realice un control de acceso, pidiendole al usuario su nombre, edad y si tiene invitación. Los requisitos erán los siguientes:</p>
 <ul>
-<li>Si tiene menos de 18 años - No ingresar</li>
-<li>Si tiene 18 años o más, pero no tiene invitacion - No ingresa</li>
-<li>Si tiene 18 o más y tiene invitación - Si ingresa</li>
+<li>Si tiene menos de 18 años - ❌No ingresar</li>
+<li>Si tiene 18 años o más, pero no tiene invitacion - ❌No ingresa</li>
+<li>Si tiene 18 o más y tiene invitación - ✅Si ingresa</li>
 </ul>
 <p>Por último poner un mensaje personalizado según el resultado</p>
 
